@@ -1,0 +1,1 @@
+[24-Feb-2014 19:56:57 Asia/Tokyo] PHP Notice:  Constant ITEM_ID_GACHA_SERIES already defined in /var/www/html/cmd.dev2.cloverlab.jp/ci/application/config/defines/app_defines.php on line 609
