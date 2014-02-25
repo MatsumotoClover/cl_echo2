@@ -40,7 +40,7 @@
 //$route['sh/(:any)'] = "sh/$1";
 
 $route['(:any)'] = "cmd/$1";
-$route['default_controller'] = "cmd/too";
+$route['default_controller'] = "cmd/top";
 $route['404_override'] = '';
 
 
