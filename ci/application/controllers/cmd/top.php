@@ -9,7 +9,7 @@ require_once dirname(__FILE__) . "./../base_controller.php";
 class Top extends Base_controller {
 
     function index() {
-        $a = '111';
+        $a = 'test PullReq';
 
         $this->view['a'] = $a;
         $this->layout->view("top/index", $this->view);
