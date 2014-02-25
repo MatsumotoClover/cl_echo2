@@ -5,6 +5,7 @@
 
 ## Otherfiles
 
+.gitignore
 ```.gitignore
 ci/application/config/database.php
 ci/application/config/defines/app_settings.php
